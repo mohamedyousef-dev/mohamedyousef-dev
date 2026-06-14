@@ -1,30 +1,48 @@
 <div align="center">
 
-<!-- البانر العلوي بتدرج ألوان الأزرق النيون والسيان المتوهج -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:030712,40:0052ff,75:00d4ff,100:00f5ff&text=Mohamed%20Yousef&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=58&descSize=18" width="100%" />
+<!-- البانر العلوي بتدرج ألوان Hack The Box المستوحى من الصورة -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0b132b,40:111936,75:14213d,100:9fe654&text=Mohamed%20Yousef&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
 <br />
 
-<!-- كود الكتابة المتحركة بلون الأزرق النيون المضيء -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Django+%7C+Next.js+%7C+React;Computer+Vision+%E2%80%A2+Facial+Recognition+%E2%80%A2+IoT;Full+Stack+Software+Engineer" alt="Typing SVG" />
+<!-- كود الكتابة المتحركة بلون أخضر Hack The Box المضيء -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=900&color=9FE654&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Django+%7C+Next.js+%7C+React;Computer+Vision+%E2%80%A2+Facial+Recognition+%E2%80%A2+IoT;Full+Stack+Software+Engineer" alt="Typing SVG" />
 
 <br />
 
-<!-- الأزرار منسقة بألوان النيون الموحدة لتتماشى مع الهوية البصرية الجديدة -->
+<!-- الأزرار منسقة بألوان السيم الجديد (الأخضر المضيء والرمادي الليلي والأزرق الداكن) -->
 <a href="https://github.com/mohamedyousef-dev/my-portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-0052ff?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0052ff&color=0052ff" />
+  <img src="https://img.shields.io/badge/Portfolio-111936?style=for-the-badge&logo=vercel&logoColor=9FE654&labelColor=111936&color=111936" />
 </a>
 <a href="https://linkedin.com/in/mohamed-yousef78">
-  <img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=030712&labelColor=00D4FF&color=00D4FF" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
 </a>
 <a href="mailto:mohamed.yoosef.official@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" />
+  <img src="https://img.shields.io/badge/Email-9FE654?style=for-the-badge&logo=gmail&logoColor=111936&labelColor=9FE654&color=9FE654" />
 </a>
 
 </div>
 
 ---
 
+## About Me
+
+I am **Mohamed Yousef**, a **Full Stack Software Engineer** passionate about building robust, scalable backend systems and creating clean, responsive modern web interfaces.
+
+I specialize in leveraging **Django** for secure, powerful backend architectures, alongside **Next.js** and **React** for seamless user experiences. 
+
+Beyond core web development, I am heavily engaged in applying **Machine Learning**, **Computer Vision**, and developing **Facial Recognition Systems** alongside **IoT** integrations to build smart, impactful solutions.
+
+```ts
+const mohamed = {
+  role: "Full Stack Software Engineer",
+  location: "Egypt",
+  focus: ["Backend Systems", "Web Applications", "REST APIs", "Smart Solutions"],
+  frontend: ["Next.js", "React.js", "JavaScript", "Tailwind CSS"],
+  backend: ["Django", "Python", "REST API"],
+  tools: ["Git", "GitHub", "VS Code"],
+  interests: ["Computer Vision", "Machine Learning", "Facial Recognition", "IoT"],
+};
 ## About Me
 
 I am **Mohamed Yousef**, a **Full Stack Software Engineer** passionate about building robust, scalable backend systems and creating clean, responsive modern web interfaces.
