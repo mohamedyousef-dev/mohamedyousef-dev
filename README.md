@@ -1,22 +1,48 @@
 <div align="center">
 
-<!-- البانر الكبير والعريض المستوحى من الصورة -->
-![Mohamed's Banner](https://capsule-render.vercel.app/api?type=soft&color=auto&height=280&section=header&text=Mohamed%20Yousef&subtitle=Full-Stack%20Software%20Engineer&fontSize=65&subFontSize=24&fontAlignY=40&subAlignY=65&theme=tokyonight)
+<!-- البانر المخصص باسمك ووظيفتك بنفس تدرج الألوان المميز -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:030712,45:0ea5e9,75:6366f1,100:8b5cf6&text=Mohamed%20Yousef&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
-<br/>
+<br />
 
-### Building Scalable Backend Systems & Modern Web Interfaces 🚀
+<!-- تأثير الكتابة المتحركة المحدث بمهاراتك واهتماماتك الخاصة -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Django+%7C+Next.js+%7C+React;Computer+Vision+%E2%80%A2+Facial+Recognition+%E2%80%A2+IoT;Full+Stack+Software+Engineer" alt="Typing SVG" />
 
-<br/>
+<br />
 
-<!-- الأزرار المنسقة والمكبرة أسفل البانر مباشرة -->
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=react&logoColor=black)](https://github.com/mohamedyousef-dev/my-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-yousef78)
-[![Gmail](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.yoosef.official@gmail.com)
+<!-- الأزرار بروابطك وحساباتك الشخصية مدمجة بالتصميم الجديد -->
+<a href="https://github.com/mohamedyousef-dev/my-portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-67E8F9?style=for-the-badge&logo=vercel&logoColor=020617&labelColor=67E8F9&color=67E8F9" />
+</a>
+<a href="https://linkedin.com/in/mohamed-yousef78">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
+</a>
+<a href="mailto:mohamed.yoosef.official@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" />
+</a>
 
 </div>
 
 ---
+
+## About Me
+
+I am **Mohamed Yousef**, a **Full Stack Software Engineer** passionate about building robust, scalable backend systems and creating clean, responsive modern web interfaces.
+
+I specialize in leveraging **Django** for secure, powerful backend architectures, alongside **Next.js** and **React** for seamless user experiences. 
+
+Beyond core web development, I am heavily engaged in applying **Machine Learning**, **Computer Vision**, and developing **Facial Recognition Systems** alongside **IoT** integrations to build smart, impactful solutions.
+
+```ts
+const mohamed = {
+  role: "Full Stack Software Engineer",
+  location: "Egypt",
+  focus: ["Backend Systems", "Web Applications", "REST APIs", "Smart Solutions"],
+  frontend: ["Next.js", "React.js", "JavaScript", "Tailwind CSS"],
+  backend: ["Django", "Python", "REST API"],
+  tools: ["Git", "GitHub", "VS Code"],
+  interests: ["Computer Vision", "Machine Learning", "Facial Recognition", "IoT"],
+};
 
 ## 🧑‍💻 About Me
 
