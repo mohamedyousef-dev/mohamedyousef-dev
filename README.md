@@ -1,16 +1,38 @@
 <div align="center">
 
-# Hi, I'm Mohamed Yousef 👋
+<!-- البانر الكبير والعريض المستوحى من الصورة -->
+![Mohamed's Banner](https://capsule-render.vercel.app/api?type=soft&color=auto&height=280&section=header&text=Mohamed%20Yousef&subtitle=Full-Stack%20Software%20Engineer&fontSize=65&subFontSize=24&fontAlignY=40&subAlignY=65&theme=tokyonight)
 
-### Full-Stack Software Engineer — Building Scalable Backend Systems & Modern Web Interfaces
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-yousef78)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.yoosef.official@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/mohamedyousef-dev/my-portfolio)
+### Building Scalable Backend Systems & Modern Web Interfaces 🚀
+
+<br/>
+
+<!-- الأزرار المنسقة والمكبرة أسفل البانر مباشرة -->
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=react&logoColor=black)](https://github.com/mohamedyousef-dev/my-portfolio)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-yousef78)
+[![Gmail](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.yoosef.official@gmail.com)
 
 </div>
 
 ---
+
+## 🧑‍💻 About Me
+
+Full-Stack Software Engineer passionate about building robust backend systems with Django and creating clean, responsive modern web interfaces with Next.js.
+
+```yaml
+name: Mohamed Yousef
+username: mohamedyousef-dev
+location: Egypt 🇪🇬
+email: mohamed.yoosef.official@gmail.com
+focus:
+  - Backend Development with Django & Python
+  - Frontend with Next.js & React
+  - Computer Vision & AI (Jupyter / ML)
+  - Facial Recognition Systems
+open_to: Freelance & Full-Time Opportunities
 
 ## 🧑‍💻 About Me
 
